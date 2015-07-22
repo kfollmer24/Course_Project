@@ -3,7 +3,7 @@ Human Activity Recognition Using Smartphones Dataset Summary and Aggregation
 Version 1.0
 ==================================================================
 KaraLea Follmer
-https://github.com/kfollmer24
+https://github.com/kfollmer24/Course_Project
 ==================================================================
 
 This program aggregates and summarizes the "Human Activity Recognition Using Smartphones Dataset: Version 1.0"  Created by Smartlab - Non Linear Complex Systems Laboratory.
